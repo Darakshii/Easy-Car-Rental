@@ -25,3 +25,9 @@ Business Analysis Project - Includes SDLC Methodologies and UML Diagrams
 ## Documentation
 - Business Requirement Document (BRD).
 - Software Requirement Specification (SRS).
+
+  ## Tools Used
+- Microsoft Office Word: For documentation and reporting.
+- Microsoft Visio: For creating UML diagrams and flowcharts.
+- Jira: For project management and task tracking.
+- Moqups: For prototyping and wireframing.
